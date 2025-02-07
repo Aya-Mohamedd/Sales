@@ -1,15 +1,15 @@
-﻿## 📊 Sales Dashboard
+﻿# 📊 Sales Dashboard
 
-## 1. 📝 Overview
+# 1. 📝 Overview
 The Sales Dashboard provides insights into sales performance through key metrics, visualizations, and interactive tooltips. It includes total orders, financial figures, order trends, and categorical breakdowns.
 
-## 2. 📂 Data Source
+# 2. 📂 Data Source
 📌 **File Used:** Sales.xlsx
 📌 **Data Included:** Order details, financial figures, product categories, territories, and sales status.
 📌 **Processing Tool:** Power BI / Excel / Tableau (Specify if needed)
 
-## 3. 📈 Key Performance Indicators (KPIs)
-# 🎯 Top Metrics (Displayed at the top bar)
+# 3. 📈 Key Performance Indicators (KPIs)
+## 🎯 Top Metrics (Displayed at the top bar)
 ✅ **No. Orders:** Total count of orders.
 ✅ **Total Due:** Total sales revenue.
 ✅ **Total Freight:** Shipping costs.
@@ -20,42 +20,42 @@ The Sales Dashboard provides insights into sales performance through key metrics
 
 ## 4. 📊 Visualizations
 # 🌍 Complete Sales Dashboard
-🖼️ ![Sales Dashboard](Images/Sales.jpg)
+🖼️ ![Sales Dashboard](Images/salesdashboard.jpg)
 
 # 📆 Total Orders by Order Date
 📌 **Chart Type:** Line Chart
 📌 **Purpose:** To visualize order trends over time.
 📌 **Data Used:** Order Date, No. of Orders.
-🖼️ !![Sales Dashboard](Images/Linecharts.png)
+🖼️ ![Sales Dashboard](Images/linechart.png)
 
 
 # 📌 Total Orders by Status
 📊 **Chart Type:** Column Chart
 📊 **Purpose:** Breakdown of orders by status (Approved, Processing, Canceled, etc.).
 📊 **Data Used:** Order Status, No. of Orders.
-🖼️ !![Sales Dashboard](Images/Columnchart.png)
+🖼️ ![Sales Dashboard](Images/columnchart.png)
 
 
 # 🗺️ Total Orders by Territory
 📍 **Chart Type:** Map and Bar Chart
 📍 **Purpose:** Shows distribution of orders across regions.
 📍 **Data Used:** Territory, No. of Orders.
-🖼️ !![Sales Dashboard](Images/Map.png)
-🖼️ !![Sales Dashboard](Images/SalesTooltip1.png)
+🖼️ ![Sales Dashboard](Images/Map.png)
+🖼️ ![Sales Dashboard](Images/salestooltip1.png)
 
 
 # 🛒 Total Orders by Product Hierarchy
 📦 **Chart Type:** Bar Chart
 📦 **Purpose:** Displays product category performance (Bikes, Components, Clothing, Accessories).
 📦 **Data Used:** Product Category, No. of Orders.
-🖼️ !![Sales Dashboard](Images/barchart.png)
+🖼️ ![Sales Dashboard](Images/barchart.png)
 
 
 # 🏷️ Total Orders by Category
 📊 **Chart Type:** Donut Chart
 📊 **Purpose:** Displays proportion of sales by product category.
 📊 **Data Used:** Product Category, Percentage of Orders.
-🖼️ !![Sales Dashboard](Images/SalesTooltip2.png)
+🖼️ ![Sales Dashboard](Images/salestooltip2.png)
 
 ## 5. 🖱️ Interactivity
 🎯 **Tooltips:** Hovering over elements provides additional insights.
