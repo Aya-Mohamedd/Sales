@@ -49,7 +49,7 @@ The Sales Dashboard provides insights into sales performance through key metrics
 
 📊 **Data Used:** Order Status, No. of Orders.
 
-🖼️ ![Sales Dashboard](Images/columnchart.jpg)
+🖼️ ![Sales Dashboard](Images/Columnchart.jpg)
 
 
 ## 🗺️ Total Orders by Territory
