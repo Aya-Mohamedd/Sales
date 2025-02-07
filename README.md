@@ -8,7 +8,7 @@ The Sales Dashboard provides insights into sales performance through key metrics
 
 📌 **Data Included:** Order details, financial figures, product categories, territories, and sales status.
 
-📌 **Processing Tool:** Power BI / Excel / Tableau (Specify if needed)
+📌 **Processing Tool:** Power BI
 
 # 3. 📈 Key Performance Indicators (KPIs)
 ## 🎯 Top Metrics (Displayed at the top bar)
