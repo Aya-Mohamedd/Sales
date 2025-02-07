@@ -20,20 +20,20 @@ The Sales Dashboard provides insights into sales performance through key metrics
 
 ## 4. 📊 Visualizations
 # 🌍 Complete Sales Dashboard
-🖼️ ![Sales Dashboard](Images/salesdashboard.jpg)
+🖼️ ![Sales Dashboard](Images/salesdashboard.png)
 
 # 📆 Total Orders by Order Date
 📌 **Chart Type:** Line Chart
 📌 **Purpose:** To visualize order trends over time.
 📌 **Data Used:** Order Date, No. of Orders.
-🖼️ ![Sales Dashboard](Images/linechart.png)
+🖼️ ![Sales Dashboard](Images/linechart.jpg)
 
 
 # 📌 Total Orders by Status
 📊 **Chart Type:** Column Chart
 📊 **Purpose:** Breakdown of orders by status (Approved, Processing, Canceled, etc.).
 📊 **Data Used:** Order Status, No. of Orders.
-🖼️ ![Sales Dashboard](Images/columnchart.png)
+🖼️ ![Sales Dashboard](Images/columnchart.jpg)
 
 
 # 🗺️ Total Orders by Territory
@@ -48,7 +48,7 @@ The Sales Dashboard provides insights into sales performance through key metrics
 📦 **Chart Type:** Bar Chart
 📦 **Purpose:** Displays product category performance (Bikes, Components, Clothing, Accessories).
 📦 **Data Used:** Product Category, No. of Orders.
-🖼️ ![Sales Dashboard](Images/barchart.png)
+🖼️ ![Sales Dashboard](Images/barchart.jpg)
 
 
 # 🏷️ Total Orders by Category
