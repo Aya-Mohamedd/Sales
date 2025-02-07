@@ -16,6 +16,7 @@ The Sales Dashboard provides insights into sales performance through key metrics
 ✅ **Total Tax:** Total tax collected.
 ✅ **Total Subtotal:** Sales revenue before tax and freight.
 ✅ **No. Order Details:** Count of order line items.
+
 🖼️ ![Sales Dashboard](Images/Cards.jpg)
 
 ## 4. 📊 Visualizations
@@ -26,6 +27,7 @@ The Sales Dashboard provides insights into sales performance through key metrics
 📌 **Chart Type:** Line Chart
 📌 **Purpose:** To visualize order trends over time.
 📌 **Data Used:** Order Date, No. of Orders.
+
 🖼️ ![Sales Dashboard](Images/linechart.jpg)
 
 
@@ -33,6 +35,7 @@ The Sales Dashboard provides insights into sales performance through key metrics
 📊 **Chart Type:** Column Chart
 📊 **Purpose:** Breakdown of orders by status (Approved, Processing, Canceled, etc.).
 📊 **Data Used:** Order Status, No. of Orders.
+
 🖼️ ![Sales Dashboard](Images/columnchart.jpg)
 
 
@@ -40,7 +43,9 @@ The Sales Dashboard provides insights into sales performance through key metrics
 📍 **Chart Type:** Map and Bar Chart
 📍 **Purpose:** Shows distribution of orders across regions.
 📍 **Data Used:** Territory, No. of Orders.
-🖼️ ![Sales Dashboard](Images/Map.png)
+
+🖼️ ![Sales Dashboard](Images/Map.jpg)
+
 🖼️ ![Sales Dashboard](Images/salestooltip1.png)
 
 
@@ -48,6 +53,7 @@ The Sales Dashboard provides insights into sales performance through key metrics
 📦 **Chart Type:** Bar Chart
 📦 **Purpose:** Displays product category performance (Bikes, Components, Clothing, Accessories).
 📦 **Data Used:** Product Category, No. of Orders.
+
 🖼️ ![Sales Dashboard](Images/barchart.jpg)
 
 
@@ -55,6 +61,7 @@ The Sales Dashboard provides insights into sales performance through key metrics
 📊 **Chart Type:** Donut Chart
 📊 **Purpose:** Displays proportion of sales by product category.
 📊 **Data Used:** Product Category, Percentage of Orders.
+
 🖼️ ![Sales Dashboard](Images/salestooltip2.png)
 
 ## 5. 🖱️ Interactivity
