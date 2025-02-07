@@ -54,7 +54,9 @@ The Sales Dashboard provides insights into sales performance through key metrics
 
 ## 🗺️ Total Orders by Territory
 📍 **Chart Type:** Map and Bar Chart
+
 📍 **Purpose:** Shows distribution of orders across regions.
+
 📍 **Data Used:** Territory, No. of Orders.
 
 🖼️ ![Sales Dashboard](Images/Map.jpg)
